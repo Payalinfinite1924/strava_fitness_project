@@ -1,0 +1,7 @@
+activity_type,distance_km,duration_min,calories,heart_rate,start_time
+Running,5.2,30,320,145,2025-08-01 06:30:00
+Cycling,15.0,45,450,130,2025-08-02 07:10:00
+Running,10.0,60,600,152,2025-08-03 18:45:00
+Swimming,1.0,40,250,120,2025-08-04 07:00:00
+Cycling,25.0,80,750,128,2025-08-05 06:50:00
+Running,7.5,42,410,148,2025-08-06 19:30:00
